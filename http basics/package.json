@@ -91,17 +91,10 @@
     "vary": "^1.1.2"
   },
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lalithasomineni/node_expressjs_recap-p2.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lalithasomineni/node_expressjs_recap-p2/issues"
-  },
-  "homepage": "https://github.com/lalithasomineni/node_expressjs_recap-p2#readme"
+  "license": "ISC"
 }
